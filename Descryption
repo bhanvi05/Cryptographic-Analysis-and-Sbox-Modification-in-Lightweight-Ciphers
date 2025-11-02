@@ -1,0 +1,7 @@
+• Implemented S-box modifications in the PRESENT lightweight block cipher and analyzed cryptographic behavior.
+• Encrypted CIFAR-10 dataset using modified PRESENT cipher variants and visualized channel-level changes in
+image structure.
+• Trained deep CNN architectures (AlexNet, MobileNet) to classify encryption variants, performing closed-set classi-
+fication with high accuracy.
+• Explored open-set classification using activation vector-based rejection (OpenMax) to detect unknown cipher pat-
+terns
